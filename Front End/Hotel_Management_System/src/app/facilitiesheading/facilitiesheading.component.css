@@ -1,0 +1,9 @@
+.jumbotron-bg {
+  background-image: url('../../assets/images/facilites.jpg');
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+}
+
+.text-light{
+  color: #f4f4f4;
+}

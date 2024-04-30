@@ -1,0 +1,15 @@
+.heightcorusal{
+  position: relative;
+  height: 80vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.showcase{
+  background: #ddd;
+  padding: 10rem 0;
+}
+
+.rooms-margin{
+  margin-bottom: 3rem;
+}

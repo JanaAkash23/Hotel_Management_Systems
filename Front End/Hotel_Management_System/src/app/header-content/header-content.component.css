@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+
+.header{
+  position: relative;
+  height: 80vh;
+  background: url('../../assets/images/pexels-thorsten-technoman-338504.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header-content{
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.2));
+}
+
+.header-content h1{
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.header-content p{
+  text-transform: uppercase;
+}
+
+.text-light{
+  color: #f4f4f4;
+}
+
+.lg-heading{
+  font-size: 3.5rem;
+}
+
+.text-red{
+  color: #e63946;
+}
+
+.btn{
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin: 0.5em 0;
+}
+
+.btn-primary{
+  background-color: #fff;
+  border-radius: 10em;
+}
+
+.md-heading{
+  font-size: 2.2rem;
+}
+
+.text{
+  font-family: 'Montserrat', sans-serif;
+}
